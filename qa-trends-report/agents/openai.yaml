@@ -1,0 +1,4 @@
+interface:
+  display_name: "QA Trends Report"
+  short_description: "Research and write software QA trend reports."
+  default_prompt: "Create a QA trends report for software testing, test automation, AI testing, QA governance, or quality engineering."

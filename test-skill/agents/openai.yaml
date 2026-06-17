@@ -1,0 +1,7 @@
+interface:
+  display_name: "Test Skill"
+  short_description: "Smoke-test skill packaging"
+  default_prompt: "Use $test-skill to confirm this skill repository is wired correctly."
+
+policy:
+  allow_implicit_invocation: true
